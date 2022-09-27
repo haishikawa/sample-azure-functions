@@ -1,5 +1,4 @@
 # Exceptions
-# 作成方法
 Exceptionの拡張クラスを作成する場合は`Exceptions`ディレクトリの配下に以下のように`System.Exception`を継承したクラスを作成する。
 ```CS
 namespace AzukarishoFunctionsApi.Exceptions
