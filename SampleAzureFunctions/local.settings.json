@@ -1,0 +1,19 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "UseDevelopmentStorage=true",
+    "FUNCTIONS_WORKER_RUNTIME": "dotnet",
+    "HttpClient:RetryCount": 2,
+    "HttpClient:TimeOut": 30,
+    "HttpClient:UriKikanSystem": "https://localhost:7122/",
+    "KeyVault:Url": "TOBEUPDATE",
+    "KeyVault:TenantId": "TOBEUPDATE",
+    "KeyVault:ClientId": "TOBEUPDATE",
+    "KeyVault:ClientSeacret": "TOBEUPDATE",
+    "StorageContainerName": "自分たちのストレージアカウントのコンテナ名"
+  },
+  "ConnectionStrings": {
+    "SqlDbConnectionString": "ここは自分たちのBDの接続文字列",
+    "StorageConnectionString": "ここは自分たちのストレージアカウントの接続文字列"
+  }
+}
